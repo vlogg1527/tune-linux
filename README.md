@@ -25,6 +25,16 @@ cd tune-linux
 sudo bash tune.sh
 ```
 
+
+
+🛠 วิธีใช้งาน: tune-hls-streaming.sh
+```bash
+bash
+chmod +x tune-hls-streaming.sh
+sudo ./tune-hls-streaming.sh
+```
+
+
 > ⚠️ **ควรทำ backup ก่อนใช้งาน**
 
 ## 🧠 สิ่งที่ปรับแต่ง
