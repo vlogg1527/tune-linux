@@ -29,7 +29,8 @@ sudo bash tune.sh
 
 🛠 วิธีใช้งาน: tune-hls-streaming.sh
 ```bash
-bash
+git clone https://github.com/vlogg1527/tune-hls-streaming.git
+cd  tune-hls-streaming
 chmod +x tune-hls-streaming.sh
 sudo ./tune-hls-streaming.sh
 ```
