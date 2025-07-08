@@ -15,7 +15,7 @@ Linux Performance Tuner คือชุดสคริปต์อัตโน�
 ## ⚙️ วิธีใช้งาน
 
 ### 1. Clone โปรเจกต์นี้
-```bash
+```
 git clone https://github.com/vlogg1527/tune-linux.git
 cd tune-linux
 ```
